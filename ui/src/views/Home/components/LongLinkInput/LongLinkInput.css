@@ -1,0 +1,15 @@
+.LongLink {
+    width: 50%;
+    justify-content: center;
+    margin:auto;
+}
+
+.LongLink input {
+    background-color: white;
+    
+}
+
+.LongLink button {
+    clear: both;
+    float: right;
+}
